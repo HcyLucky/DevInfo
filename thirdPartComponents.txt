@@ -1,0 +1,5 @@
+SloppySwiper 
+
+iOS 7以上版本的UINavigationController支持右滑返回手势，该手势只能从屏幕左侧边缘识别，如果要扩大到整个屏幕范围怎么办？
+配合SloppySwiper就可以轻松实现。
+https://github.com/fastred/SloppySwiper
